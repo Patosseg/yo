@@ -13,7 +13,7 @@ Soy Estudiante Mecatrónico del Tecnológico de Monterrey buscando proyectos en 
 - **Twitter:** [@patoseg_S](https://x.com/patoseg_S)
 
 ##  Hablemos de colaboración
-Estoy abierto a tener proyectos en donde incluyan ideas de negocios, programación y finanzas.
+Estoy interesado en colaborar en proyectos que integren ideas innovadoras en el ámbito de los negocios, el desarrollo de software y las estrategias financieras. Te invito a ponerte en contacto conmigo a través del medio más conveniente para conversar en detalle y explorar posibles sinergias.
 
 ---
 
