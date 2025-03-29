@@ -1,25 +1,20 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# Hola, soy Pato! 
 
-Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta crear soluciones elegantes y eficientes, y siempre estoy aprendiendo algo nuevo.
+Soy Estudiante Mecatrónico del Tecnológico de Monterrey buscando proyectos en los que trabajar. 
 
-## 🔭 Proyectos en los que he trabajado
-- **[Nombre del Proyecto]**: Breve descripción del proyecto y las tecnologías utilizadas.
-- **[Otro Proyecto]**: Más información sobre otro proyecto interesante.
-
-## 🌱 Tecnologías que manejo
+##  Tecnologías que manejo
 - **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Node.js, Express
+- **Backend:** Node.js
 - **Lenguajes:** JavaScript, TypeScript, Python
-- **Herramientas:** Git, Docker, CI/CD
 
-## 📫 ¿Cómo contactarme?
-- **Email:** [tuemail@example.com]
+## ¿Cómo contactarme?
+- **Email:** patosegurasalinas@outlook.com
 - **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tu-perfil)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
+- **Twitter:** [@patoseg_S](https://x.com/patoseg_S)
 
-## 💬 Hablemos de colaboración
-Estoy siempre abierto a colaborar en proyectos innovadores, aprender nuevas tecnologías y compartir conocimientos. ¡No dudes en contactarme si quieres trabajar juntos o simplemente charlar sobre tecnología!
+##  Hablemos de colaboración
+Estoy abierto a tener proyectos en donde incluyan ideas de negocios, programación y finanzas.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+Gracias por visitar mi perfil!
