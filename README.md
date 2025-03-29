@@ -9,7 +9,7 @@ Soy Estudiante Mecatrónico del Tecnológico de Monterrey buscando proyectos en 
 
 ## ¿Cómo contactarme?
 - **Email:** patosegurasalinas@outlook.com
-- **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn:** [Patricio Segura Salinas](https://www.linkedin.com/in/patricio-segura-salinas-916150268/)
 - **Twitter:** [@patoseg_S](https://x.com/patoseg_S)
 
 ##  Hablemos de colaboración
